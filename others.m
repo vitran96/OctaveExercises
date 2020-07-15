@@ -18,3 +18,6 @@ disp(sprintf('2 decimals: %0.2f', a));
 # format long
 # or
 # format short
+
+# Show help
+# Eg: help eye -> show doc for 'eye'

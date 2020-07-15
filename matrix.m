@@ -26,4 +26,7 @@ h = zeros(4,5);
 t = rand(6,5);
 
 # randn(nrows,columns) Gaussian random matrix
-t = randn(10,10);
+u = randn(10,10);
+
+# Identity matrix: eye(size)
+w = eye(5);
