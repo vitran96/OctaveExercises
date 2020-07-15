@@ -3,6 +3,7 @@
 
 # Assignment
 a = 1;
+b = "hi"
 
 # PI value
 a = pi;
@@ -15,3 +16,5 @@ disp(sprintf('2 decimals: %0.2f', a));
 
 # Change format
 # format long
+# or
+# format short
