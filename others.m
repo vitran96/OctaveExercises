@@ -12,3 +12,6 @@ disp(a);
 
 # Format string
 disp(sprintf('2 decimals: %0.2f', a));
+
+# Change format
+# format long
