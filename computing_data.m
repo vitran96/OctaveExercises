@@ -39,3 +39,10 @@ val = max(v1)
 
 # Logical operation is also ELement-wise operation
 v1 < 2
+
+# find(CONDITION) - elements fit the condition. This can return 2 output by row and column
+find(v1 < 2)
+[r,c] = find(A < 5)
+
+# magic(SIZE) - generate magic square
+magic(4)
