@@ -41,3 +41,8 @@ disp(sprintf('2 decimals: %0.2f', a));
 # save XXX.mat VAR - save variable to a file (compresed binary file)
 # save XXX.txt VAR -ascii - save var as human-readable format
 
+# Shorthand to create an array of number
+i = 1:10 # Create an array from 1 to 10
+
+# Add search path
+#addpath(...);
